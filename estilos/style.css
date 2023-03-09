@@ -71,6 +71,8 @@ form > div.campo {
 
 div.campo > label {
     display: none;
+    margin: 5px;
+    padding: 5px;
 }
 
 div.campo > span {
